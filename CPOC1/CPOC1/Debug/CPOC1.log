@@ -1,0 +1,6 @@
+﻿  CPOC1.cpp
+c:\users\tripathi\desktop\cpoc1\cpoc1\cpoc1.cpp(25): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\tripathi\desktop\cpoc1\cpoc1\cpoc1.cpp(33): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\tripathi\desktop\cpoc1\cpoc1\cpoc1.cpp(73): warning C4101: j: неиспользованная локальная переменная
+  CPOC1.vcxproj -> C:\Users\Tripathi\Desktop\CPOC1\Debug\CPOC1.exe
+  CPOC1.vcxproj -> C:\Users\Tripathi\Desktop\CPOC1\Debug\CPOC1.pdb (Full PDB)
