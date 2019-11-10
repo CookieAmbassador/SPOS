@@ -1,0 +1,12 @@
+C:\Users\Tripathi\Desktop\CPOC2\CPOC2\bin\Debug\CPOC2.exe.config
+C:\Users\Tripathi\Desktop\CPOC2\CPOC2\bin\Debug\CPOC2.exe
+C:\Users\Tripathi\Desktop\CPOC2\CPOC2\bin\Debug\CPOC2.pdb
+C:\Users\Tripathi\Desktop\CPOC2\CPOC2\obj\Debug\CPOC2.csprojResolveAssemblyReference.cache
+C:\Users\Tripathi\Desktop\CPOC2\CPOC2\obj\Debug\CPOC2.Form1.resources
+C:\Users\Tripathi\Desktop\CPOC2\CPOC2\obj\Debug\CPOC2.Properties.Resources.resources
+C:\Users\Tripathi\Desktop\CPOC2\CPOC2\obj\Debug\CPOC2.csproj.GenerateResource.Cache
+C:\Users\Tripathi\Desktop\CPOC2\CPOC2\obj\Debug\CPOC2.exe
+C:\Users\Tripathi\Desktop\CPOC2\CPOC2\obj\Debug\CPOC2.pdb
+C:\Users\Tripathi\Desktop\СПОС\CPOC2\CPOC2\bin\Debug\CPOC2.exe.config
+C:\Users\Tripathi\Desktop\СПОС\CPOC2\CPOC2\obj\Debug\CPOC2.exe
+C:\Users\Tripathi\Desktop\СПОС\CPOC2\CPOC2\obj\Debug\CPOC2.pdb
